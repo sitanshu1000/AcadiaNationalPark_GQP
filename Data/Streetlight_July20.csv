@@ -1,0 +1,33 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Volume),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi),Day_of_week_no
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,0: All Days (M-Su),0: All Day (12am-12am),1695,2693,2845,17.3,17.9,-1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,1: Monday (M-M),0: All Day (12am-12am),1856,2333,2430,13.9,14.3,0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1687,2683,2866,18.7,19.8,1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,3: Wednesday (W-W),0: All Day (12am-12am),1553,2770,2837,16.9,17.2,2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,4: Thursday (Th-Th),0: All Day (12am-12am),1478,2555,2685,15.5,15.9,3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,5: Friday (F-F),0: All Day (12am-12am),1824,2741,2852,17.6,17.7,4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,6: Saturday (Sa-Sa),0: All Day (12am-12am),1670,2787,2985,17,18.2,5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Acadia Area,yes,0,yes,7: Sunday (Su-Su),0: All Day (12am-12am),1856,2997,3272,21.4,22.5,6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,0: All Days (M-Su),0: All Day (12am-12am),5570,2624,2692,15.7,15.8,-1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,1: Monday (M-M),0: All Day (12am-12am),5733,2355,2483,12.9,13.6,0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,2: Tuesday (Tu-Tu),0: All Day (12am-12am),6340,2517,2581,14.2,14.2,1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,3: Wednesday (W-W),0: All Day (12am-12am),4815,2715,2731,16.2,16.3,2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,4: Thursday (Th-Th),0: All Day (12am-12am),5195,2536,2623,14.6,14.7,3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,5: Friday (F-F),0: All Day (12am-12am),6004,2572,2648,15.8,16,4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,6: Saturday (Sa-Sa),0: All Day (12am-12am),5971,2789,2816,17.2,17,5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Blue Hill Overlook,yes,0,yes,7: Sunday (Su-Su),0: All Day (12am-12am),5103,2938,3024,19.3,19.6,6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,0: All Days (M-Su),0: All Day (12am-12am),474,2962,3002,17,17.5,-1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,1: Monday (M-M),0: All Day (12am-12am),165,4777,4777,33.6,33.6,0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,2: Tuesday (Tu-Tu),0: All Day (12am-12am),661,2782,2982,16.4,17.7,1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,3: Wednesday (W-W),0: All Day (12am-12am),396,3063,3172,19,20.4,2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,4: Thursday (Th-Th),0: All Day (12am-12am),495,2509,2509,9,9.2,3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,5: Friday (F-F),0: All Day (12am-12am),661,2948,2899,21,21.7,4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,6: Saturday (Sa-Sa),0: All Day (12am-12am),289,2927,2927,13.7,13.7,5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Entrance,yes,0,yes,7: Sunday (Su-Su),0: All Day (12am-12am),619,3064,3082,15.4,15.3,6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,0: All Days (M-Su),0: All Day (12am-12am),221,3123,3182,14.4,14.6,-1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,1: Monday (M-M),0: All Day (12am-12am),204,3278,3278,18.4,18.4,0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,2: Tuesday (Tu-Tu),0: All Day (12am-12am),163,2490,2490,10.2,10.2,1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,3: Wednesday (W-W),0: All Day (12am-12am),98,1413,2936,3.2,13.8,2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,4: Thursday (Th-Th),0: All Day (12am-12am),327,4032,4181,21.1,20.8,3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,5: Friday (F-F),0: All Day (12am-12am),294,3140,3140,13.7,13.7,4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,6: Saturday (Sa-Sa),0: All Day (12am-12am),204,2927,2668,9.8,8.8,5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Cadillac Parking,yes,0,yes,7: Sunday (Su-Su),0: All Day (12am-12am),245,2535,2509,10.7,10.8,6
