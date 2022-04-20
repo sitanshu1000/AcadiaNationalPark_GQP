@@ -2,7 +2,12 @@
   <div class="mb-5">
     <h3 class="mb-5">
       Please submit a .csv file containing date, humidity, etc. to predict the
-      volume of cars on that day with Negative Binomial.
+      volume and dwell time of cars on that day with Negative Binomial and Random Forest.
+      <a
+        href="https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing"
+        >Data submission example is here:</a
+      >
+      https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing
     </h3>
     <v-row>
       <v-file-input
