@@ -41,10 +41,22 @@ export default {
     };
   },
   methods: {
+    convertTimestamp(timestamp) {
+      var d = new Date(timestamp), // Convert the passed timestamp to milliseconds
+        yyyy = d.getFullYear(),
+        mm = ("0" + (d.getMonth() + 1)).slice(-2), // Months are zero based. Add leading 0.
+        dd = ("0" + d.getDate()).slice(-2), // Add leading 0.
+        time;
+
+      // ie: 2013-02-18
+      time = yyyy + "-" + mm + "-" + dd;
+      return time;
+    },
     fileSelected(file) {
       console.log(file);
       this.progress = 0;
       this.selectedFile = file;
+      this.$store.state.haveResult = false;
     },
     uploadFile() {
       if (!this.selectedFile) {
@@ -68,9 +80,30 @@ export default {
             "Content-Type": "multipart/form-data",
           },
         })
-        .then((res) => {
-          vm.$store.state.haveResult = true;
-          console.log(res);
+        .then(async (response) => {
+          var tmp = await JSON.parse(JSON.stringify(response.data));
+          if (tmp["msg"] == "Success") {
+            console.log("Success");
+            vm.$store.state.haveResult = true;
+          }
+          var volumeResult = JSON.parse(tmp["volume"]);
+          var volParsed = [];
+          for (var i = 0; i < volumeResult["index"].length; i++) {
+            volParsed.push({
+              text: vm.convertTimestamp(volumeResult["index"][i]),
+              value: Math.round(volumeResult["data"][i]),
+            });
+          }
+          vm.$store.state.volume = volParsed;
+          var dwellResult = JSON.parse(tmp["dwell"]);
+          var dwellParsed = [];
+          for (i = 0; i < volumeResult["index"].length; i++) {
+            dwellParsed.push({
+              text: vm.convertTimestamp(volumeResult["index"][i]),
+              value: Math.round(dwellResult[i]),
+            });
+          }
+          vm.$store.state.dwell = dwellParsed;
         });
     },
   },

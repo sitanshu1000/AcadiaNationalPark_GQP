@@ -1,10 +1,10 @@
 <template>
   <v-row>
     <v-col cols="6">
-      <linechart />
+      <linechart :data="data"/>
     </v-col>
     <v-col cols="6">
-      <boxplot />
+      <boxplot :data="data"/>
     </v-col>
   </v-row>
 </template>
@@ -14,6 +14,7 @@ import linechart from "./Linechart.vue";
 import boxplot from "./Boxplot.vue";
 
 export default {
+  props:["data"],
   components: {
     linechart,
     boxplot,

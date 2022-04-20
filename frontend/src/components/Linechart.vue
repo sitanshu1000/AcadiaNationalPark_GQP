@@ -10,6 +10,7 @@
 import VueApexCharts from "vue-apexcharts";
 
 export default {
+  props: ["data"],
   components: {
     apexchart: VueApexCharts,
   },
@@ -53,7 +54,7 @@ export default {
     getData() {
       var dates = [];
       var volumes = [];
-      var data = this.$store.state.results;
+      var data = this.data;
       data.forEach((element) => {
         dates.push(element.text);
         volumes.push(element.value);
