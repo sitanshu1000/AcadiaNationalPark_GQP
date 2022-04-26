@@ -1,14 +1,5 @@
 <template>
   <div class="mb-5">
-    <h3 class="mb-5">
-      Please submit a .csv file containing date, humidity, etc. to predict the
-      volume and dwell time of cars on that day with Negative Binomial and Random Forest.
-      <a
-        href="https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing"
-        >Data submission example is here:</a
-      >
-      https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing
-    </h3>
     <v-row>
       <v-file-input
         show-size
@@ -16,7 +7,18 @@
         accept=".csv"
         @change="fileSelected"
       ></v-file-input>
+      <v-btn @click="detail = !detail" text>Submission Details</v-btn>
     </v-row>
+    <h3 class="mb-5" v-show="detail">
+      Please submit a .csv file containing date, humidity, etc. to predict the
+      volume and dwell time of cars on that day with Negative Binomial and
+      Random Forest.
+      <a
+        href="https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing"
+        >Data submission example is here:</a
+      >
+      https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing
+    </h3>
     <div v-if="selectedFile">
       <div>
         <v-progress-linear
@@ -31,7 +33,10 @@
       </div>
     </div>
     <v-col class="text-right">
-      <v-btn elevation="2" @click="uploadFile">Upload</v-btn>
+      <v-btn elevation="2" @click="downloadFile" class="mr-3" color="primary"
+        >Download Result</v-btn
+      >
+      <v-btn elevation="2" @click="uploadFile" color="primary">Upload</v-btn>
     </v-col>
   </div>
 </template>
@@ -43,6 +48,7 @@ export default {
     return {
       progress: 0,
       selectedFile: null,
+      detail: false,
     };
   },
   methods: {
@@ -109,6 +115,27 @@ export default {
             });
           }
           vm.$store.state.dwell = dwellParsed;
+        });
+    },
+    downloadFile() {
+      if (!this.$store.state.haveResult) {
+        alert("Please select and upload file");
+        return;
+      }
+      alert("Downloading Result");
+      axios
+        .get("http://" + location.hostname + ":5000/downloadresult", {
+          responseType: "blob",
+        })
+        .then(async function (response) {
+          console.log("download result");
+          // let contentType = response.headers["content-type"]
+          const url = window.URL.createObjectURL(new Blob([response.data]));
+          const link = document.createElement("a");
+          link.href = url;
+          link.setAttribute("download", "Result.csv");
+          document.body.appendChild(link);
+          link.click();
         });
     },
   },

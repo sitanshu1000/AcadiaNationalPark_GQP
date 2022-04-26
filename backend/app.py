@@ -1,5 +1,5 @@
 import os
-from flask import Flask, flash, request, redirect, url_for
+from flask import Flask, flash, request, redirect, url_for, send_file
 import pandas as pd
 import pickle
 import numpy as np
@@ -56,6 +56,7 @@ def predictDwell(df):
     df["is_summer"] = np.where((df["Month"].isin([6, 7, 8])), 1, 0)
 
     # one hot encoding for DOW
+    df["Monday"] = 0
     df["Tuesday"] = 0
     df["Wednesday"] = 0
     df["Thursday"] = 0
@@ -76,8 +77,10 @@ def predictDwell(df):
             df.loc[i, "Friday"] = 1
         elif dow[i] == 5:
             df.loc[i, "Saturday"] = 1
+        else:
+            df.loc[i,"Monday"] = 1
     df = df.drop(columns=["Full_Date"])
-    loaded_model = joblib.load("RF_5_16.joblib")
+    loaded_model = joblib.load("RF.joblib")
     result = loaded_model.predict(df)
     return result
 
@@ -114,22 +117,41 @@ def upload_file():
             # federal_holiday_flag,
             # school_holiday_flag,
             # Average of feels_like
-            print(df.columns)
+            resultPath = "Result.csv"
+            if os.path.exists(resultPath):
+                os.remove(resultPath)
             volumeDf = df.drop(columns=["Average of feels_like"])
-            volumeResult = predictVolume(volumeDf).to_json(orient="split")
+            volumeResult = predictVolume(volumeDf)
+            volumeJson = volumeResult.to_json(orient="split")
             dwellDf = df.drop(
                 columns=["snow_1h", "federal_holiday_flag", "school_holiday_flag"])
             dwellResult = predictDwell(dwellDf)
+            dwellJson = json.dumps(dwellResult.tolist())
+            result = {
+                "Date": volumeResult.index,
+                "Volume": volumeResult,
+                "Dwell Time": dwellResult,
+            }
+            result = pd.DataFrame(result)
+            result.to_csv(resultPath, index=False)
             # calculate
             # get the result
             # remove file from temp directory
             os.remove(fname)
             return {
                 "msg": "Success",
-                "volume": volumeResult,
-                "dwell": json.dumps(dwellResult.tolist()),
+                "volume": volumeJson,
+                "dwell": dwellJson,
             }
     return {"msg": "Load"}
+
+
+@app.route('/downloadresult')
+def downloadResult():
+    return send_file('Result.csv',
+                     mimetype='text/csv',
+                     attachment_filename='Result.csv',
+                     as_attachment=True)
 
 
 app.run(debug=True)

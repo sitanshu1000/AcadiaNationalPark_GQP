@@ -1,10 +1,13 @@
 <template>
-  <apexchart
-    type="boxPlot"
-    height="350"
-    :options="chartOptions"
-    :series="series"
-  ></apexchart>
+  <div>
+    <h4>Box Plot for {{ $store.state.pType }} Predictions</h4>
+    <apexchart
+      type="boxPlot"
+      height="350"
+      :options="chartOptions"
+      :series="series"
+    ></apexchart>
+  </div>
 </template>
 <script>
 import VueApexCharts from "vue-apexcharts";
@@ -23,7 +26,7 @@ export default {
           height: 350,
         },
         title: {
-          text: "Box Plot for Volume Predictions",
+          text: "",
           align: "left",
         },
         plotOptions: {

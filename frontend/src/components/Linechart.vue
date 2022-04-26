@@ -1,10 +1,13 @@
 <template>
-  <apexchart
-    type="line"
-    height="350"
-    :options="chartOptions"
-    :series="series"
-  ></apexchart>
+  <div>
+    <h4>Line Chart for {{$store.state.pType}} Predictions</h4>
+    <apexchart
+      type="line"
+      height="350"
+      :options="chartOptions"
+      :series="series"
+    ></apexchart>
+  </div>
 </template>
 <script>
 import VueApexCharts from "vue-apexcharts";
@@ -32,7 +35,7 @@ export default {
           curve: "straight",
         },
         title: {
-          text: "Line Chart for Volume Predictions",
+          text: "",
           align: "left",
         },
         grid: {
@@ -81,7 +84,7 @@ export default {
           curve: "straight",
         },
         title: {
-          text: "Line Chart for Volume Predictions",
+          text: "",
           align: "left",
         },
         grid: {

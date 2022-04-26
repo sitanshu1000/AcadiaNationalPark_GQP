@@ -57,6 +57,11 @@ export default {
   methods: {
     refresh() {
       this.tab = 0;
+      this.$store.state.pType = this.pType;
+      this.headers = [
+        { text: "Date", value: "text", sortable: false },
+        { text: this.pType, value: "value", sortable: true },
+      ];
     },
   },
   computed: {
