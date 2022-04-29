@@ -153,4 +153,4 @@ def downloadResult():
                      as_attachment=True)
 
 
-app.run(debug=True,host="0.0.0.0")
+app.run(debug=True,host="0.0.0.0",ssl_context='adhoc')
