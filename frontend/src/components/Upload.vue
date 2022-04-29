@@ -14,10 +14,10 @@
       volume and dwell time of cars on that day with Negative Binomial and
       Random Forest.
       <a
-        href="https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing"
+        href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9EKaA2X-bTwi9x41rWyeBzkJrgJybiKOBOVaiVWb9HPmUQBfGM8nEuwhOqJmp3oy6i0IvQcfIi88o/pubhtml"
         >Data submission example is here:</a
       >
-      https://docs.google.com/spreadsheets/d/1QrZJBCsnCS_cpMwKG8T57EnVcsLw9QFR0HicQGFnmUk/edit?usp=sharing
+      https://docs.google.com/spreadsheets/d/e/2PACX-1vT9EKaA2X-bTwi9x41rWyeBzkJrgJybiKOBOVaiVWb9HPmUQBfGM8nEuwhOqJmp3oy6i0IvQcfIi88o/pubhtml
     </h3>
     <div v-if="selectedFile">
       <div>
@@ -78,7 +78,7 @@ export default {
       var vm = this;
       fd.append("file", this.selectedFile);
       axios
-        .post("http://" + location.hostname + ":5000/fileupload", fd, {
+        .post("https://" + location.hostname + ":5000/fileupload", fd, {
           onUploadProgress: (uploadEvent) => {
             vm.progress = Math.round(
               (100 * uploadEvent.loaded) / uploadEvent.total
@@ -93,24 +93,28 @@ export default {
         })
         .then(async (response) => {
           var tmp = await JSON.parse(JSON.stringify(response.data));
-          if (tmp["msg"] == "Success") {
-            console.log("Success");
-            vm.$store.state.haveResult = true;
+          if (tmp["msg"] != "Success") {
+            console.log("Failed");
+            return;
           }
+          vm.$store.state.haveResult = true;
+          console.log(tmp);
+          var dates = tmp["date"];
+          console.log(dates);
           var volumeResult = JSON.parse(tmp["volume"]);
           var volParsed = [];
-          for (var i = 0; i < volumeResult["index"].length; i++) {
+          for (var i = 0; i < dates.length; i++) {
             volParsed.push({
-              text: vm.convertTimestamp(volumeResult["index"][i]),
-              value: Math.round(volumeResult["data"][i]),
+              text: vm.convertTimestamp(dates[i]),
+              value: Math.round(volumeResult[i]),
             });
           }
           vm.$store.state.volume = volParsed;
           var dwellResult = JSON.parse(tmp["dwell"]);
           var dwellParsed = [];
-          for (i = 0; i < volumeResult["index"].length; i++) {
+          for (i = 0; i < dates.length; i++) {
             dwellParsed.push({
-              text: vm.convertTimestamp(volumeResult["index"][i]),
+              text: vm.convertTimestamp(dates[i]),
               value: Math.round(dwellResult[i]),
             });
           }
@@ -124,7 +128,7 @@ export default {
       }
       alert("Downloading Result");
       axios
-        .get("http://" + location.hostname + ":5000/downloadresult", {
+        .get("https://" + location.hostname + ":5000/downloadresult", {
           responseType: "blob",
         })
         .then(async function (response) {

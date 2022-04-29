@@ -1,21 +1,16 @@
 <template>
   <div>
     <h4>Box Plot for {{ $store.state.pType }} Predictions</h4>
-    <apexchart
-      type="boxPlot"
-      height="350"
-      :options="chartOptions"
-      :series="series"
-    ></apexchart>
+    <v-img src="http://localhost:5000/dwellBoxp.jpg"></v-img>
   </div>
 </template>
 <script>
-import VueApexCharts from "vue-apexcharts";
+// import VueApexCharts from "vue-apexcharts";
 import * as d3 from "d3";
 export default {
   props: ["data"],
   components: {
-    apexchart: VueApexCharts,
+    // apexchart: VueApexCharts,
   },
   data() {
     return {

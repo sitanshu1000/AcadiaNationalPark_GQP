@@ -6,6 +6,8 @@ import numpy as np
 from patsy import dmatrices
 import joblib
 import json
+from pandas.tseries.holiday import USFederalHolidayCalendar
+
 
 UPLOAD_FOLDER = '.\\UploadedData'
 ALLOWED_EXTENSIONS = {'csv'}
@@ -20,6 +22,8 @@ def allowed_file(filename):
 
 
 def predictVolume(data_import):
+    cal = USFederalHolidayCalendar()
+    holidays = cal.holidays(start='2014-01-01', end='2026-12-31')
     all_years_test = data_import
     all_years_test.set_index('Full_Date', inplace=True)
     all_years_test.index = pd.to_datetime(all_years_test.index)
@@ -28,23 +32,15 @@ def predictVolume(data_import):
     all_years_test['MONTH'] = ds.dt.month
     all_years_test['DAY_OF_WEEK'] = ds.dt.dayofweek
     all_years_test['DAY'] = ds.dt.day
-    all_years_test.drop(columns=['snow_1h'], inplace=True)
-    all_years_test["federal_holiday_flag"] = all_years_test["federal_holiday_flag"].astype(
-        int)
-    all_years_test["school_holiday_flag"] = all_years_test["school_holiday_flag"].astype(
-        int)
-    all_years_test['wind_gust'].fillna(
-        (all_years_test['wind_gust'].mean()), inplace=True)
-    df_test = all_years_test
-    df_test["value"] = [0 for _ in range(len(df_test))]
-    print('Testing data set length='+str(len(df_test)))
-    expr = """value ~ DAY  + DAY_OF_WEEK + MONTH + YEAR + temp + temp_min + temp_max + pressure + humidity + wind_speed + wind_gust + rain_1h + federal_holiday_flag + school_holiday_flag"""
-    y_test, X_test = dmatrices(expr, df_test, return_type='dataframe')
+    all_years_test['federal_holiday_flag'] = all_years_test.index.isin(holidays)
 
+    all_years_test['school_holiday_flag'] = all_years_test.index.isin(all_years_test.index[(all_years_test.index.month >= 6) & (all_years_test.index.month <= 8)])
+    all_years_test["federal_holiday_flag"] = all_years_test["federal_holiday_flag"].astype(int)
+    all_years_test["school_holiday_flag"] = all_years_test["school_holiday_flag"].astype(int)
+    X = all_years_test[['temp', 'humidity', 'wind_speed', 'rain_1h', 'federal_holiday_flag', 'school_holiday_flag', 'MONTH', 'DAY_OF_WEEK', 'DAY']]
     loaded_model = pickle.load(open("volume_prediction.sav", 'rb'))
-    nb2_predictions = loaded_model.get_prediction(X_test)
-    result = nb2_predictions.summary_frame()["mean"]
-    return result
+    out_of_sample_pred = loaded_model.predict(X)
+    return out_of_sample_pred, X.index
 
 
 def predictDwell(df):
@@ -84,6 +80,9 @@ def predictDwell(df):
     result = loaded_model.predict(df)
     return result
 
+@app.route("/")
+def hello():
+    return "Hello World"
 
 @app.route('/fileupload', methods=['GET', 'POST'])
 def upload_file():
@@ -120,15 +119,14 @@ def upload_file():
             resultPath = "Result.csv"
             if os.path.exists(resultPath):
                 os.remove(resultPath)
-            volumeDf = df.drop(columns=["Average of feels_like"])
-            volumeResult = predictVolume(volumeDf)
-            volumeJson = volumeResult.to_json(orient="split")
-            dwellDf = df.drop(
-                columns=["snow_1h", "federal_holiday_flag", "school_holiday_flag"])
+            volumeDf = df[["Full_Date","temp","humidity","wind_speed","rain_1h"]]
+            volumeResult, dates = predictVolume(volumeDf)
+            volumeJson = json.dumps(volumeResult.tolist())
+            dwellDf = df
             dwellResult = predictDwell(dwellDf)
             dwellJson = json.dumps(dwellResult.tolist())
             result = {
-                "Date": volumeResult.index,
+                "Date": dates,
                 "Volume": volumeResult,
                 "Dwell Time": dwellResult,
             }
@@ -140,6 +138,7 @@ def upload_file():
             os.remove(fname)
             return {
                 "msg": "Success",
+                "date":dates.to_list(),
                 "volume": volumeJson,
                 "dwell": dwellJson,
             }
@@ -154,4 +153,4 @@ def downloadResult():
                      as_attachment=True)
 
 
-app.run(debug=True)
+app.run(debug=True,host="0.0.0.0")
