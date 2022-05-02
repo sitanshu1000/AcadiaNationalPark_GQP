@@ -1,0 +1,289 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi)
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),817,1413,1413,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),01: 12am (12am-1am),1,5027,5027,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),1,250,250,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),24,1673,1673,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),27,1712,1712,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),26,1187,1187,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),5,843,843,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),13,1771,1771,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),51,1495,1495,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),71,1306,1306,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),85,1666,1666,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),134,1736,1736,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),63,1374,1374,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),79,1239,1239,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),63,1103,1103,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),53,1299,1299,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),44,1085,1085,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),41,1150,1150,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),26,1263,1263,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),5,852,852,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),5,1177,1177,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),00: All Day (12am-12am),829,1483,1483,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),05: 4am (4am-5am),43,869,869,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),07: 6am (6am-7am),44,554,554,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),09: 8am (8am-9am),25,1315,1315,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),10: 9am (9am-10am),51,787,787,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),11: 10am (10am-11am),79,1657,1657,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),63,761,761,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),158,2390,2390,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),73,2206,2206,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),36,982,982,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),78,898,898,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),81,1343,1343,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),36,1252,1252,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),9,620,620,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),43,2338,2338,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),22: 9pm (9pm-10pm),9,1260,1260,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),830,1490,1490,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),8,601,601,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),35,1871,1871,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),9,1727,1727,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),36,2285,2285,1.3,1.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),53,1256,1256,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),87,1082,1082,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),137,1907,1907,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),134,1965,1965,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),53,1084,1084,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),51,1000,1000,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),52,1099,1099,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),69,1553,1553,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),26,1152,1152,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),44,1135,1135,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),25,867,867,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),8,977,977,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),722,1510,1510,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),17,1349,1349,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),26,762,762,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),9,2045,2045,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),72,1958,1958,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),62,1679,1679,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),70,2191,2191,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),97,1888,1888,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),62,1406,1406,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),158,1171,1171,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),71,1377,1377,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),44,798,798,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),26,930,930,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),8,2376,2376,3.0,3.0
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),851,1493,1493,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),19,3463,3463,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),27,1691,1691,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),19,855,855,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),09: 8am (8am-9am),9,715,715,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),27,1394,1394,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),72,1214,1214,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),96,1745,1745,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),108,1681,1681,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),55,1543,1543,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),80,2188,2188,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),27,2155,2155,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),62,964,964,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),63,1429,1429,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),109,1141,1141,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),51,723,723,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),9,667,667,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),22: 9pm (9pm-10pm),18,1655,1655,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),00: All Day (12am-12am),870,1218,1218,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),04: 3am (3am-4am),10,250,250,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),05: 4am (4am-5am),19,860,860,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),06: 5am (5am-6am),28,1206,1206,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),07: 6am (6am-7am),18,349,349,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),08: 7am (7am-8am),28,1021,1021,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),09: 8am (8am-9am),9,2912,2912,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),10: 9am (9am-10am),46,1784,1784,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),11: 10am (10am-11am),74,1407,1407,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),85,1355,1355,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),120,952,952,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),94,1422,1422,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),114,1059,1059,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),74,1110,1110,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),30,1679,1679,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),38,1393,1393,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),57,1014,1014,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),27,1258,1258,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),577,1420,1420,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),18,2912,2912,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),37,2720,2720,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),36,1079,1079,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),08: 7am (7am-8am),9,311,311,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),61,1805,1805,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),35,1501,1501,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),44,1745,1745,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),106,1659,1659,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),35,494,494,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),64,892,892,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),25,559,559,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),18,1238,1238,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),36,960,960,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),18,1470,1470,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),18,1465,1465,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),9,1491,1491,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),22: 9pm (9pm-10pm),8,136,136,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),1046,1312,1312,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),01: 12am (12am-1am),9,5027,5027,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),43,1937,1937,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),36,1654,1654,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),44,2094,2094,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),9,992,992,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),44,1228,1228,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),88,870,870,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),98,1652,1652,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),216,1525,1525,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),70,984,984,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),54,1195,1195,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),117,958,958,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),65,1499,1499,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),79,692,692,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),45,1085,1085,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),17,594,594,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),8,272,272,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),1152,1201,1201,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),01: 12am (12am-1am),3,2005,2005,2.0,2.0
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),3,161,161,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),53,431,431,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),42,936,936,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),46,789,789,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),1,311,311,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),8,889,889,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),47,1062,1062,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),71,1344,1344,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),140,1280,1280,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),133,1640,1640,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),120,1412,1412,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),126,1305,1305,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),117,1120,1120,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),87,1022,1022,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),52,967,967,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),48,1087,1087,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),30,1223,1223,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),14,1412,1412,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),6,1216,1216,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),23: 10pm (10pm-11pm),4,2147,2147,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,0: All Days (M-Su),24: 11pm (11pm-12am),1,1417,1417,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),00: All Day (12am-12am),1302,1178,1178,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),05: 4am (4am-5am),68,437,437,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),06: 5am (5am-6am),65,446,446,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),07: 6am (6am-7am),74,558,558,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),09: 8am (8am-9am),8,2651,2651,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),10: 9am (9am-10am),35,477,477,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),11: 10am (10am-11am),103,1611,1611,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),131,1095,1095,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),170,1374,1374,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),90,1521,1521,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),170,1161,1161,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),187,1353,1353,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),55,1337,1337,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),45,1423,1423,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),34,1264,1264,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),34,1078,1078,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),21: 8pm (8pm-9pm),18,1402,1402,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),22: 9pm (9pm-10pm),9,1260,1260,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,1: Monday (M-M),24: 11pm (11pm-12am),9,1417,1417,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),1222,1244,1244,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),78,635,635,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),46,1102,1102,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),43,683,683,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),18,335,335,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),37,943,943,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),80,1378,1378,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),159,1236,1236,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),174,2328,2328,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),87,936,936,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),141,1633,1633,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),105,903,903,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),87,721,721,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),62,965,965,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),45,1031,1031,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),35,996,996,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),17,1151,1151,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,2: Tuesday (Tu-Tu),22: 9pm (9pm-10pm),9,924,924,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),1002,1313,1313,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),61,325,325,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),27,1512,1512,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),18,819,819,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),53,944,944,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),70,1061,1061,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),121,1470,1470,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),107,1739,1739,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),168,1761,1761,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),132,1406,1406,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),122,1128,1128,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),46,1153,1153,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),34,1142,1142,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),18,431,431,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),8,1426,1426,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),8,822,822,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,3: Wednesday (W-W),23: 10pm (10pm-11pm),8,1801,1801,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),1052,1377,1377,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),50,589,589,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),36,1659,1659,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),35,593,593,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),52,1650,1650,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),36,2617,2617,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),169,1055,1055,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),64,2072,2072,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),127,1849,1849,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),73,1367,1367,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),88,1203,1203,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),90,907,907,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),46,947,947,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),73,988,988,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),51,1468,1468,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),35,1903,1903,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),22: 9pm (9pm-10pm),18,1881,1881,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,4: Thursday (Th-Th),23: 10pm (10pm-11pm),8,4345,4345,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),00: All Day (12am-12am),1144,1097,1097,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),04: 3am (3am-4am),10,250,250,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),05: 4am (4am-5am),54,337,337,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),06: 5am (5am-6am),59,312,312,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),07: 6am (6am-7am),28,121,121,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),10: 9am (9am-10am),37,1773,1773,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),11: 10am (10am-11am),121,1137,1137,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),152,1354,1354,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),129,1033,1033,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),110,1232,1232,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),156,1382,1382,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),102,1274,1274,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),57,816,816,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),64,756,756,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),29,1640,1640,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),36,1268,1268,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),957,1117,1117,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),04: 3am (3am-4am),8,71,71,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),26,183,183,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),8,1385,1385,1.3,1.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),82,1175,1175,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),08: 7am (7am-8am),9,311,311,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),52,1055,1055,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),35,1035,1035,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),89,1293,1293,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),176,1464,1464,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),81,1252,1252,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),71,1149,1149,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),53,1045,1045,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),149,1006,1006,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),36,884,884,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),18,498,498,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),26,1431,1431,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),19,995,995,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),22: 9pm (9pm-10pm),8,136,136,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,6: Saturday (Sa-Sa),23: 10pm (10pm-11pm),8,295,295,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),1385,1111,1111,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),01: 12am (12am-1am),19,2005,2005,2.0,2.0
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),34,240,240,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),54,1148,1148,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),44,1119,1119,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),26,671,671,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),62,662,662,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),53,941,941,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),162,1496,1496,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),109,1568,1568,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),175,1141,1141,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),143,1021,1021,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),162,870,870,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),125,1244,1244,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),80,851,851,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),116,1179,1179,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Inverse Parking Lot,no,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),18,734,734,0.1,0.1

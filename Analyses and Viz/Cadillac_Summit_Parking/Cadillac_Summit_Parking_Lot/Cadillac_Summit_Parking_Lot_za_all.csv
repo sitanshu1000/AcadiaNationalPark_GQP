@@ -1,0 +1,127 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Volume),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi)
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),0: All Day (12am-12am),2437,2749,2829,16.3,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),1: Early AM (12am-6am),265,2340,2356,15.7,15.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),2: Peak AM (6am-10am),292,2936,3012,18.8,18.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),1208,2963,3024,17.7,17.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),510,2667,2786,14.6,15.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,0: All Days (M-Su),5: Late PM (7pm-12am),162,2564,2674,13.4,13.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),0: All Day (12am-12am),2114,2608,2684,14.6,14.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),1: Early AM (12am-6am),190,2208,2233,14.0,14.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),273,2728,2807,15.8,16.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1092,2864,2900,16.3,16.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),425,2487,2612,12.8,13.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),134,2382,2536,11.9,12.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),3129,2999,3076,18.9,19.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),441,2592,2596,18.6,18.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),397,3127,3204,21.5,21.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1443,3177,3253,20.0,20.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),628,3003,3112,17.9,18.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 1,yes,86,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),221,2770,2825,14.2,14.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),0: All Day (12am-12am),2467,2785,2862,16.0,16.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),1: Early AM (12am-6am),222,2351,2369,15.3,15.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),2: Peak AM (6am-10am),260,2947,3026,17.9,18.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),1295,2993,3050,17.4,17.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),534,2703,2819,14.4,14.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,0: All Days (M-Su),5: Late PM (7pm-12am),156,2655,2751,13.7,14.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),0: All Day (12am-12am),2284,2647,2727,14.3,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),1: Early AM (12am-6am),190,2230,2261,13.8,14.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),281,2757,2862,15.2,15.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1228,2896,2937,15.9,16.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),439,2510,2639,12.5,13.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),147,2506,2630,12.3,12.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2879,3038,3106,18.7,18.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),292,2569,2574,17.7,17.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),258,3135,3200,20.8,20.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1468,3217,3281,19.9,20.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),688,3060,3157,18.0,18.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570322 / 2,yes,117,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),173,2885,2930,15.0,15.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),0: All Day (12am-12am),2422,2784,2863,16.0,16.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),1: Early AM (12am-6am),216,2374,2387,15.6,15.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),2: Peak AM (6am-10am),254,2943,3026,17.8,18.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),1270,2986,3046,17.3,17.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),527,2701,2822,14.4,14.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,0: All Days (M-Su),5: Late PM (7pm-12am),155,2649,2745,13.7,14.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),0: All Day (12am-12am),2233,2639,2721,14.2,14.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),1: Early AM (12am-6am),183,2233,2257,13.9,14.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),273,2715,2826,14.8,15.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1203,2884,2930,15.7,15.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),429,2504,2636,12.5,13.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),145,2507,2631,12.3,12.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2837,3044,3114,18.8,18.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),287,2650,2651,19.0,18.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),253,3171,3237,20.9,20.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1443,3207,3272,19.8,19.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),680,3050,3154,17.9,18.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 1,yes,122,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),175,2859,2904,14.7,14.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),0: All Day (12am-12am),1507,2844,2914,15.2,15.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),1: Early AM (12am-6am),147,2372,2392,14.4,14.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),2: Peak AM (6am-10am),167,3092,3174,17.7,18.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),774,3067,3139,16.3,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),322,2781,2844,13.8,13.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,0: All Days (M-Su),5: Late PM (7pm-12am),97,2745,2828,13.9,14.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),0: All Day (12am-12am),1282,2707,2786,13.5,13.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),1: Early AM (12am-6am),130,2216,2248,12.9,13.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),179,3031,3160,16.9,17.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),626,2980,3033,14.5,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),253,2621,2717,12.4,12.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),94,2541,2665,11.6,12.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1967,3059,3108,17.7,17.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),188,2670,2675,17.7,17.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),169,3148,3200,18.3,18.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1088,3226,3305,18.6,18.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),419,3014,3038,16.7,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 2,yes,2,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),104,3122,3127,16.5,16.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),0: All Day (12am-12am),2055,2831,2922,15.7,16.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),1: Early AM (12am-6am),144,2381,2419,13.6,13.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),2: Peak AM (6am-10am),251,2688,2792,14.2,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),992,2946,3037,15.9,16.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),519,2932,3034,17.1,17.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,0: All Days (M-Su),5: Late PM (7pm-12am),149,2817,2881,15.5,15.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),0: All Day (12am-12am),1818,2691,2793,14.1,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),1: Early AM (12am-6am),123,2210,2259,11.6,12.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),252,2630,2771,13.4,14.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),875,2797,2890,14.2,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),428,2770,2890,15.5,16.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),140,2705,2781,13.8,14.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2622,3061,3135,18.3,18.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),194,2624,2648,17.0,17.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),289,2842,2908,16.7,16.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1333,3243,3325,18.7,19.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),643,3130,3217,19.4,19.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 3,yes,239,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),163,2985,3018,17.6,17.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),0: All Day (12am-12am),1638,2848,2947,16.4,16.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),1: Early AM (12am-6am),88,2413,2458,14.3,14.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),2: Peak AM (6am-10am),182,2654,2758,14.0,14.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),796,2885,3006,15.9,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),442,2995,3088,18.5,18.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,0: All Days (M-Su),5: Late PM (7pm-12am),130,2896,2961,16.5,16.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),0: All Day (12am-12am),1447,2710,2821,14.8,15.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),1: Early AM (12am-6am),76,2230,2286,11.7,12.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),145,2642,2764,13.4,13.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),718,2734,2861,14.4,15.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),388,2811,2919,16.7,17.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),121,2802,2883,15.0,15.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2116,3083,3172,19.0,19.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),111,2655,2685,18.4,18.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),273,2789,2874,16.2,16.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1013,3195,3306,18.7,19.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),570,3230,3324,20.8,21.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,Cadillac Summit Road / 128570329 / 4,yes,253,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),148,3030,3058,18.4,18.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),0: All Day (12am-12am),1436,2861,2953,16.8,17.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),1: Early AM (12am-6am),123,2357,2377,15.1,15.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),2: Peak AM (6am-10am),148,2829,2936,16.1,16.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),592,3040,3105,18.1,18.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),456,2932,3069,16.9,17.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,0: All Days (M-Su),5: Late PM (7pm-12am),117,2684,2779,14.1,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),0: All Day (12am-12am),1317,2676,2782,14.4,15.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),1: Early AM (12am-6am),101,2270,2280,14.1,14.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),151,2661,2801,13.8,14.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),529,2826,2910,15.2,15.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),429,2714,2874,14.6,15.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),107,2523,2627,12.4,13.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1633,3161,3232,20.2,20.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),164,2455,2479,16.3,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),161,3057,3107,20.3,20.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),706,3411,3447,22.4,22.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),479,3281,3397,20.5,20.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,N/A,service / 128570327 / 1,yes,19,yes,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),124,2939,2995,16.2,16.5

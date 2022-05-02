@@ -1,0 +1,35 @@
+Analysis ID: 394009
+Analysis: Cadillac Summit Parking Lot
+Created by: mpkelly@wpi.edu
+Created on: 2022-02-22
+Organization: WPI - Academic - Acadia Glacier Parks Mobility
+
+Analysis Setup Details:
+Analysis Type: Zone Activity Analysis (LBS Trip Data)
+Additional Project Configuration: Trip Attributes
+Unit of Measurement: Miles
+Mode of Travel: All Vehicles
+Data Source: Location-Based Services with Pass-through
+Output Type: StL All Vehicles Volume
+
+Analysis Options: 
+Date Range: 01/01/2020-12/31/2020
+
+
+Day Type: 
+0: All Days (M-Su)
+1: Weekday (M-Th)
+2: Weekend Day (Sa-Su)
+
+Day Part: 
+0: All Day (12am-12am)
+1: Early AM (12am-6am)
+2: Peak AM (6am-10am)
+3: Mid-Day (10am-3pm)
+4: Peak PM (3pm-7pm)
+5: Late PM (7pm-12am)
+
+Country: USA
+Metrics Version: R109-M114
+
+Copyright © 2011 - 2021, StreetLight Data, Inc. All rights reserved.

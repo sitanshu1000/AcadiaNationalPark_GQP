@@ -1,0 +1,307 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi)
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),1772,1239,1239,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),01: 12am (12am-1am),1,5027,5027,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),5,1218,1218,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),60,910,910,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),39,1263,1263,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),53,1250,1250,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),9,863,863,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),34,1400,1400,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),133,1337,1337,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),174,1244,1244,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),217,1158,1158,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),222,1527,1527,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),161,1232,1232,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),184,1176,1176,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),135,1165,1165,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),114,1169,1169,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),86,1011,1011,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),78,1169,1169,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),47,1420,1420,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),12,1199,1199,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),8,1179,1179,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),23: 10pm (10pm-11pm),2,856,856,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),00: All Day (12am-12am),1995,1230,1230,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),05: 4am (4am-5am),94,641,641,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),06: 5am (5am-6am),38,820,820,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),07: 6am (6am-7am),90,391,391,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),08: 7am (7am-8am),8,1213,1213,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),09: 8am (8am-9am),51,1463,1463,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),10: 9am (9am-10am),138,801,801,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),11: 10am (10am-11am),245,1384,1384,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),206,925,925,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),250,1923,1923,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),173,1298,1298,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),141,1311,1311,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),165,992,992,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),126,1399,1399,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),87,1008,1008,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),61,1026,1026,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),86,1826,1826,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),21: 8pm (8pm-9pm),18,2362,2362,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),22: 9pm (9pm-10pm),9,1260,1260,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),23: 10pm (10pm-11pm),9,1417,1417,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),1824,1234,1234,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),04: 3am (3am-4am),17,753,753,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),61,407,407,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),45,1544,1544,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),36,2017,2017,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),63,1327,1327,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),126,1511,1511,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),193,1305,1305,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),254,1219,1219,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),215,1822,1822,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),131,1504,1504,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),181,967,967,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),166,803,803,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),124,1180,1180,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),80,867,867,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),60,1125,1125,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),59,746,746,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),17,1330,1330,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),1653,1289,1289,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),04: 3am (3am-4am),9,3295,3295,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),52,1157,1157,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),26,762,762,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),27,1683,1683,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),09: 8am (8am-9am),8,3766,3766,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),159,1559,1559,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),176,1595,1595,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),201,1327,1327,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),222,1423,1423,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),191,1169,1169,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),238,1028,1028,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),124,1053,1053,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),89,915,915,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),61,1024,1024,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),43,1528,1528,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),17,458,458,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),22: 9pm (9pm-10pm),8,1801,1801,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),1507,1388,1388,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),61,1684,1684,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),46,1332,1332,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),27,1210,1210,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),09: 8am (8am-9am),9,715,715,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),105,1656,1656,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),153,1098,1098,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),247,1306,1306,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),136,1467,1467,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),117,1306,1306,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),124,1899,1899,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),54,2498,2498,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),96,1276,1276,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),100,1225,1225,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),127,1036,1036,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),70,1191,1191,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),9,667,667,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),22: 9pm (9pm-10pm),27,1293,1293,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),00: All Day (12am-12am),1764,1158,1158,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),05: 4am (4am-5am),36,158,158,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),06: 5am (5am-6am),48,646,646,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),07: 6am (6am-7am),36,231,231,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),08: 7am (7am-8am),28,1021,1021,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),09: 8am (8am-9am),19,2191,2191,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),10: 9am (9am-10am),150,1630,1630,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),11: 10am (10am-11am),168,1102,1102,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),179,1189,1189,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),222,1051,1051,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),186,1022,1022,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),243,1058,1058,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),132,1843,1843,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),75,764,764,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),103,1159,1159,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),94,1069,1069,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),46,1937,1937,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),1507,1245,1245,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),04: 3am (3am-4am),8,71,71,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),44,1033,1033,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),37,2828,2828,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),82,1801,1801,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),08: 7am (7am-8am),18,396,396,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),09: 8am (8am-9am),45,1330,1330,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),125,1216,1216,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),69,1186,1186,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),166,1035,1035,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),216,1571,1571,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),123,1751,1751,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),118,786,786,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),97,1005,1005,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),157,968,968,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),63,1017,1017,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),69,1370,1370,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),36,958,958,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),19,995,995,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),22: 9pm (9pm-10pm),8,136,136,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),23: 10pm (10pm-11pm),8,295,295,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),2153,1166,1166,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),01: 12am (12am-1am),9,5027,5027,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),68,1156,1156,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),36,849,849,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),71,1684,1684,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),08: 7am (7am-8am),9,971,971,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),43,847,847,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),133,1023,1023,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),212,959,959,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),263,1065,1065,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),293,1395,1395,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),204,884,884,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),245,1333,1333,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),205,992,992,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),129,1514,1514,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),106,781,781,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),90,1244,1244,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),17,3253,3253,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Start,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),18,377,377,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),1880,1199,1199,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),01: 12am (12am-1am),3,2005,2005,2.0,2.0
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),3,161,161,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),54,495,495,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),55,987,987,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),52,849,849,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),5,1207,1207,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),13,1044,1044,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),72,1054,1054,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),161,1236,1236,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),270,1158,1158,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),250,1474,1474,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),202,1423,1423,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),185,1168,1168,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),176,1084,1084,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),141,1030,1030,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),94,1156,1156,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),64,1096,1096,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),50,1325,1325,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),20,1657,1657,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),8,2944,2944,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),23: 10pm (10pm-11pm),4,2147,2147,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,0: All Days (M-Su),24: 11pm (11pm-12am),1,1417,1417,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),00: All Day (12am-12am),2211,1106,1106,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),05: 4am (4am-5am),68,418,418,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),06: 5am (5am-6am),72,521,521,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),07: 6am (6am-7am),74,567,567,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),09: 8am (8am-9am),8,1637,1637,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),10: 9am (9am-10am),94,674,674,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),11: 10am (10am-11am),236,1394,1394,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),293,910,910,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),336,1388,1388,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),142,1348,1348,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),233,1138,1138,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),247,919,919,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),136,1155,1155,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),117,1119,1119,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),51,1069,1069,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),61,1412,1412,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),21: 8pm (8pm-9pm),26,1358,1358,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),22: 9pm (9pm-10pm),8,4543,4543,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,1: Monday (M-M),24: 11pm (11pm-12am),9,1417,1417,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),1872,1215,1215,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),78,557,557,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),62,1305,1305,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),52,645,645,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),26,637,637,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),62,692,692,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),178,1505,1505,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),228,1133,1133,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),271,1781,1781,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),176,1094,1094,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),193,1173,1173,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),165,980,980,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),138,954,954,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),80,1339,1339,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),62,1021,1021,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),61,975,975,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),25,1328,1328,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,2: Tuesday (Tu-Tu),22: 9pm (9pm-10pm),17,4439,4439,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),1709,1370,1370,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),69,696,696,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),51,1792,1792,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),27,1227,1227,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),87,938,938,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),132,1145,1145,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),290,1474,1474,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),258,1434,1434,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),226,1465,1465,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),200,1514,1514,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),168,1235,1235,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),55,1358,1358,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),78,1368,1368,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),17,1314,1314,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),34,2080,2080,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),8,822,822,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,3: Wednesday (W-W),23: 10pm (10pm-11pm),8,1801,1801,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),1606,1405,1405,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),42,802,802,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),44,1530,1530,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),35,593,593,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),08: 7am (7am-8am),8,1584,1584,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),43,2986,2986,1.0,1.0
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),115,1477,1477,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),303,1188,1188,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),115,1980,1980,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),180,1980,1980,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),125,1040,1040,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),141,1378,1378,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),136,947,947,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),99,1090,1090,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),99,1034,1034,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),60,1284,1284,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),35,1903,1903,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),22: 9pm (9pm-10pm),18,1881,1881,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,4: Thursday (Th-Th),23: 10pm (10pm-11pm),8,4345,4345,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),00: All Day (12am-12am),1840,1146,1146,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),04: 3am (3am-4am),10,250,250,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),05: 4am (4am-5am),54,337,337,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),06: 5am (5am-6am),87,317,317,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),07: 6am (6am-7am),37,615,615,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),08: 7am (7am-8am),9,1208,1208,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),10: 9am (9am-10am),56,1519,1519,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),11: 10am (10am-11am),157,1234,1234,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),239,1370,1370,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),201,1160,1160,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),252,1358,1358,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),196,1318,1318,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),254,1170,1170,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),93,756,756,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),92,958,958,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),49,1234,1234,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),55,1297,1297,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),1607,1104,1104,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),04: 3am (3am-4am),8,71,71,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),35,196,196,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),17,829,829,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),73,1264,1264,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),08: 7am (7am-8am),9,311,311,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),09: 8am (8am-9am),27,1249,1249,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),78,984,984,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),106,987,987,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),167,894,894,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),280,1497,1497,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),178,1241,1241,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),161,945,945,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),71,1066,1066,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),194,996,996,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),80,1292,1292,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),43,853,853,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),43,1205,1205,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),27,1401,1401,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,6: Saturday (Sa-Sa),23: 10pm (10pm-11pm),8,295,295,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),2316,1110,1110,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),01: 12am (12am-1am),19,2005,2005,2.0,2.0
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),34,259,259,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),54,1040,1040,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),62,989,989,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),08: 7am (7am-8am),8,1726,1726,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),26,1047,1047,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),81,617,617,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),203,870,870,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),365,1085,1085,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),288,1301,1301,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),261,1456,1456,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),187,944,944,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),191,934,934,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),230,1114,1114,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),116,1031,1031,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),128,1199,1199,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),36,1290,1290,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),17,2907,2907,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip End,,Cadillac Parking and Trails,no,N/A,no,7: Sunday (Su-Su),22: 9pm (9pm-10pm),9,482,482,0.3,0.3

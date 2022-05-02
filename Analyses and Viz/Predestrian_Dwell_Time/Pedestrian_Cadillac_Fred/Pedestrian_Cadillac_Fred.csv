@@ -1,0 +1,145 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi)
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),1473,1804,1804,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),4,526,526,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),23,1522,1522,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),40,1620,1620,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),44,1428,1428,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),5,2667,2667,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),21,2493,2493,1.4,1.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),87,1466,1466,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),147,1868,1868,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),201,1704,1704,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),194,2212,2212,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),163,2132,2132,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),169,1801,1801,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),116,1688,1688,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),107,1537,1537,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),64,1466,1466,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),40,1279,1279,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),37,1926,1926,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),9,2712,2712,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),2,969,969,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,0: All Days (M-Su),23: 10pm (10pm-11pm),1,295,295,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),00: All Day (12am-12am),1789,1908,1908,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),05: 4am (4am-5am),17,721,721,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),06: 5am (5am-6am),70,1895,1895,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),07: 6am (6am-7am),27,510,510,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),08: 7am (7am-8am),8,1213,1213,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),09: 8am (8am-9am),34,1851,1851,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),10: 9am (9am-10am),68,1592,1592,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),11: 10am (10am-11am),203,1899,1899,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),223,1749,1749,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),233,2404,2404,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),151,2535,2535,1.0,1.0
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),263,1913,1913,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),192,1583,1583,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),134,2024,2024,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),64,1135,1135,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),60,1503,1503,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),42,2766,2766,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),1453,1923,1923,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),04: 3am (3am-4am),17,753,753,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),17,2920,2920,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),52,2316,2316,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),44,2003,2003,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),36,2514,2514,1.9,1.9
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),63,1265,1265,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),134,2099,2099,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),159,1721,1721,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),210,3124,3124,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),203,1880,1880,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),166,1844,1844,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),68,811,811,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),97,1229,1229,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),69,1153,1153,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),43,904,904,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),60,1430,1430,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),17,4818,4818,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),1188,1622,1622,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),67,1729,1729,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),17,853,853,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),37,1479,1479,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),09: 8am (8am-9am),8,3766,3766,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),99,1916,1916,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),105,1681,1681,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),157,1269,1269,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),144,1409,1409,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),184,2078,2078,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),122,1722,1722,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),88,901,901,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),55,1337,1337,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),35,1665,1665,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),26,1242,1242,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),26,3112,3112,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),8,822,822,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,3: Wednesday (W-W),22: 9pm (9pm-10pm),8,1801,1801,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),1143,2041,2041,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),34,1177,1177,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),37,1898,1898,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),9,1228,1228,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),26,3202,3202,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),120,1945,1945,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),223,2035,2035,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),117,2302,2302,1.2,1.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),178,2016,2016,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),97,2161,2161,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),80,3060,3060,1.4,1.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),107,1593,1593,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),44,1562,1562,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),26,1672,1672,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),44,1707,1707,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),00: All Day (12am-12am),1510,1829,1829,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),05: 4am (4am-5am),10,1534,1534,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),06: 5am (5am-6am),10,92,92,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),07: 6am (6am-7am),27,1044,1044,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),08: 7am (7am-8am),9,1208,1208,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),09: 8am (8am-9am),10,1470,1470,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),10: 9am (9am-10am),104,1391,1391,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),11: 10am (10am-11am),225,1800,1800,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),225,1902,1902,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),240,2453,2453,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),85,3157,3157,1.1,1.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),176,1266,1266,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),179,1725,1725,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),93,1334,1334,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),55,1645,1645,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),27,1478,1478,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),37,2001,2001,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),1462,1635,1635,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),04: 3am (3am-4am),8,71,71,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),8,522,522,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),26,1534,1534,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),64,1064,1064,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),09: 8am (8am-9am),52,3199,3199,2.1,2.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),107,1082,1082,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),98,1390,1390,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),173,1500,1500,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),254,1877,1877,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),121,2252,2252,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),153,1498,1498,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),98,2508,2508,0.9,0.9
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),105,1298,1298,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),89,1373,1373,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),36,1452,1452,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),36,1012,1012,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),18,1356,1356,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),22: 9pm (9pm-10pm),8,136,136,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,6: Saturday (Sa-Sa),23: 10pm (10pm-11pm),8,295,295,0.1,0.1
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),1764,1690,1690,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),9,1045,1045,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),63,1027,1027,0.3,0.3
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),98,1752,1752,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),08: 7am (7am-8am),18,4123,4123,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),8,481,481,0.2,0.2
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),141,1196,1196,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),149,2094,2094,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),246,1610,1610,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),159,1561,1561,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),213,1777,1777,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),207,2168,2168,0.8,0.8
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),109,1287,1287,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),155,1627,1627,0.5,0.5
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),93,1804,1804,0.6,0.6
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),62,987,987,0.4,0.4
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),18,2008,2008,0.7,0.7
+Pedestrian - StL Pedestrian Index,Trip Pass-Through,,Pedestrian Zone 1,yes,N/A,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),17,2907,2907,0.1,0.1
