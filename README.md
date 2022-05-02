@@ -7,8 +7,8 @@ For the first goal, data was used from Acadia Park to estimate car volume and da
 
 
 ## Data
-[![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/weather.png)]
-[![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/park%20data.png)]
+![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/weather.png)
+![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/park%20data.png)
 
 ## Models
 
