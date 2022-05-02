@@ -1,0 +1,144 @@
+Mode of Travel,Origin Zone ID,Origin Zone Name,Origin Zone Is Pass-Through,Origin Zone Direction (degrees),Origin Zone is Bi-Direction,Destination Zone ID,Destination Zone Name,Destination Zone Is Pass-Through,Destination Zone Direction (degrees),Destination Zone is Bi-Direction,Day Type,Day Part,Average Daily O-D Traffic (StL Index),Average Daily Origin Zone Traffic (StL Index),Average Daily Destination Zone Traffic (StL Index),Avg Travel Time (sec)
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),00: All Day (12am-12am),1126,1886,2048,1005
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),04: 3am (3am-4am),4,6,2,592
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),05: 4am (4am-5am),51,53,73,815
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),06: 5am (5am-6am),45,90,207,956
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),07: 6am (6am-7am),31,82,87,1118
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),08: 7am (7am-8am),11,28,20,728
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),09: 8am (8am-9am),19,37,18,1091
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),10: 9am (9am-10am),37,82,56,1051
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),11: 10am (10am-11am),90,149,126,1102
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),12: 11am (11am-12noon),137,230,196,1169
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),13: 12pm (12noon-1pm),96,178,232,889
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),14: 1pm (1pm-2pm),109,171,183,886
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),15: 2pm (2pm-3pm),123,188,202,962
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),16: 3pm (3pm-4pm),96,157,159,997
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),17: 4pm (4pm-5pm),84,129,148,1090
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),18: 5pm (5pm-6pm),78,125,123,1119
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),19: 6pm (6pm-7pm),46,77,83,1170
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),20: 7pm (7pm-8pm),41,69,64,872
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),21: 8pm (8pm-9pm),10,12,42,883
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),22: 9pm (9pm-10pm),10,15,19,811
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),23: 10pm (10pm-11pm),4,4,2,374
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,0: All Days (M-Su),24: 11pm (11pm-12am),4,4,6,582
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),00: All Day (12am-12am),1236,1876,2139,1040
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),05: 4am (4am-5am),26,26,11,116
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),06: 5am (5am-6am),20,35,171,317
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),07: 6am (6am-7am),100,136,120,1060
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),09: 8am (8am-9am),60,90,40,1281
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),10: 9am (9am-10am),35,35,20,1612
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),11: 10am (10am-11am),86,97,121,1136
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),12: 11am (11am-12noon),169,275,265,1061
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),13: 12pm (12noon-1pm),134,204,303,943
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),14: 1pm (1pm-2pm),82,132,124,1018
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),15: 2pm (2pm-3pm),181,287,273,948
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),16: 3pm (3pm-4pm),88,123,216,1628
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),17: 4pm (4pm-5pm),37,83,96,1460
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),18: 5pm (5pm-6pm),56,117,102,1170
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),19: 6pm (6pm-7pm),71,112,129,858
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),20: 7pm (7pm-8pm),26,58,30,689
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),21: 8pm (8pm-9pm),22,22,54,1092
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),23: 10pm (10pm-11pm),15,15,N/A,136
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,1: Monday (M-M),24: 11pm (11pm-12am),30,30,45,582
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),942,1543,1711,1067
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),05: 4am (4am-5am),73,73,73,910
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),50,65,136,211
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),40,74,35,1406
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),11: 10am (10am-11am),87,172,80,1030
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),76,165,171,1176
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),136,172,309,801
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),56,112,152,1484
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),131,187,208,932
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),74,115,71,662
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),92,107,177,1054
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),18: 5pm (5pm-6pm),35,91,50,2268
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),65,127,71,2200
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),20: 7pm (7pm-8pm),15,30,65,1145
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,2: Tuesday (Tu-Tu),23: 10pm (10pm-11pm),11,11,11,611
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),00: All Day (12am-12am),788,1409,1641,998
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),04: 3am (3am-4am),11,22,11,270
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),05: 4am (4am-5am),37,37,67,106
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),06: 5am (5am-6am),11,142,246,379
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),07: 6am (6am-7am),40,100,96,1344
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),10: 9am (9am-10am),15,71,46,864
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),11: 10am (10am-11am),26,102,90,1106
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),12: 11am (11am-12noon),53,103,87,1560
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),101,126,288,521
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),93,103,113,1412
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),48,93,48,1284
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),70,117,81,1135
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),47,82,107,658
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),83,109,46,1183
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),41,77,103,574
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),77,88,62,1080
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),15,15,66,286
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,3: Wednesday (W-W),22: 9pm (9pm-10pm),22,22,68,1687
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),00: All Day (12am-12am),1220,2076,2191,1015
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),05: 4am (4am-5am),60,60,90,508
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),06: 5am (5am-6am),80,140,193,1699
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),07: 6am (6am-7am),20,70,110,1297
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),10: 9am (9am-10am),46,113,55,950
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),11: 10am (10am-11am),52,105,112,634
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),12: 11am (11am-12noon),178,300,234,1154
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),119,210,177,1038
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),96,168,258,616
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),73,160,154,1274
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),83,185,215,803
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),152,219,170,1284
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),138,138,219,779
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),85,100,87,1275
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),22,67,52,626
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),15,15,30,455
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),00: All Day (12am-12am),918,1459,1643,898
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),05: 4am (4am-5am),10,10,35,3357
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),06: 5am (5am-6am),40,64,169,150
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),09: 8am (8am-9am),20,20,20,1198
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),10: 9am (9am-10am),35,54,45,701
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),11: 10am (10am-11am),93,167,120,1232
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),12: 11am (11am-12noon),98,139,100,1114
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),13: 12pm (12noon-1pm),68,189,177,1054
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),14: 1pm (1pm-2pm),130,173,245,527
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),15: 2pm (2pm-3pm),66,135,186,553
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),16: 3pm (3pm-4pm),92,122,68,1114
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),17: 4pm (4pm-5pm),48,82,121,1058
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),18: 5pm (5pm-6pm),108,123,139,1216
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),19: 6pm (6pm-7pm),19,39,78,135
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),20: 7pm (7pm-8pm),68,83,83,612
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,5: Friday (F-F),22: 9pm (9pm-10pm),21,21,21,114
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),1361,2433,2536,1090
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),05: 4am (4am-5am),122,136,118,1187
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),34,63,289,338
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),39,118,111,1295
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),08: 7am (7am-8am),38,120,38,634
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),09: 8am (8am-9am),34,101,38,791
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),58,169,107,1047
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),142,190,116,1290
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),164,272,298,1669
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),33,118,133,766
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),153,257,204,1071
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),168,218,293,994
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),137,246,236,883
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),89,154,239,979
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),102,141,153,974
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),20: 7pm (7pm-8pm),34,88,34,1052
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,6: Saturday (Sa-Sa),22: 9pm (9pm-10pm),14,14,14,854
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),00: All Day (12am-12am),1412,2398,2471,924
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),04: 3am (3am-4am),21,21,N/A,915
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),05: 4am (4am-5am),26,26,117,150
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),06: 5am (5am-6am),81,126,244,1473
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),07: 6am (6am-7am),15,131,115,478
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),08: 7am (7am-8am),35,35,21,822
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),09: 8am (8am-9am),21,21,15,1017
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),10: 9am (9am-10am),31,51,82,912
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),11: 10am (10am-11am),141,208,243,1082
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),12: 11am (11am-12noon),223,359,213,832
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),81,230,243,1074
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),152,248,182,684
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),192,238,250,908
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),127,188,228,829
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),128,179,125,1026
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),21,159,154,1465
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),41,56,56,1046
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),41,67,123,968
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),20,20,46,1489
+Pedestrian - StL Pedestrian Index,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,,Cadillac Summit and Trails Pedestrian Only,no,N/A,no,7: Sunday (Su-Su),22: 9pm (9pm-10pm),15,35,15,409

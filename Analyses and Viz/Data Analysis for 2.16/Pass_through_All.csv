@@ -1,0 +1,173 @@
+Mode of Travel,Intersection Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Volume),Avg Travel Time (sec),Avg All Travel Time (sec),Avg Trip Length (mi),Avg All Trip Length (mi)
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),00: All Day (12am-12am),146,2144,2144,10.3,10.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),07: 6am (6am-7am),12,1772,1772,2.8,2.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),10: 9am (9am-10am),18,2381,2381,15.8,15.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),12: 11am (11am-12noon),3,1155,1155,1.7,1.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),13: 12pm (12noon-1pm),12,1905,1905,8.4,8.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),15: 2pm (2pm-3pm),29,1303,1303,4.3,4.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),16: 3pm (3pm-4pm),8,1022,1022,4.2,4.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),18: 5pm (5pm-6pm),18,5125,5125,34.0,34.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),19: 6pm (6pm-7pm),18,2124,2124,4.5,4.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),20: 7pm (7pm-8pm),16,1313,1313,4.3,4.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,0: All Days (M-Su),21: 8pm (8pm-9pm),14,3522,3522,23.2,23.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,1: Monday (M-M),00: All Day (12am-12am),96,2800,2800,17.3,17.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,1: Monday (M-M),15: 2pm (2pm-3pm),19,911,911,3.0,3.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,1: Monday (M-M),21: 8pm (8pm-9pm),77,3745,3745,24.5,24.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),150,1354,1354,3.9,3.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),82,1772,1772,2.8,2.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),19,648,648,3.5,3.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),49,1643,1643,5.4,5.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,3: Wednesday (W-W),00: All Day (12am-12am),164,1826,1826,6.9,6.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,3: Wednesday (W-W),12: 11am (11am-12noon),19,1155,1155,1.7,1.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),68,1938,1938,4.1,4.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),58,1022,1022,4.2,4.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),19,3075,3075,20.6,20.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,4: Thursday (Th-Th),00: All Day (12am-12am),112,2312,2312,11.3,11.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),49,3233,3233,18.6,18.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),64,1391,1391,4.0,4.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,5: Friday (F-F),00: All Day (12am-12am),68,1762,1762,4.1,4.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,5: Friday (F-F),19: 6pm (6pm-7pm),19,2290,2290,3.6,3.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,5: Friday (F-F),20: 7pm (7pm-8pm),49,1234,1234,4.6,4.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),290,2716,2716,17.6,17.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),123,2381,2381,15.8,15.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),19,1820,1820,11.5,11.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),74,1348,1348,6.5,6.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),74,7016,7016,49.4,49.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,7: Sunday (Su-Su),00: All Day (12am-12am),136,1807,1807,4.0,4.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),61,1990,1990,5.3,5.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),19,990,990,2.1,2.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Bottom of Mountain,yes,0,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),56,2440,2440,4.6,4.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),00: All Day (12am-12am),277,3330,3301,20.9,20.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),05: 4am (4am-5am),1,1467,1467,6.0,6.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),06: 5am (5am-6am),12,3958,3882,39.6,38.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),07: 6am (6am-7am),11,2153,2443,10.2,10.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),08: 7am (7am-8am),9,2561,2648,11.7,11.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),09: 8am (8am-9am),5,2231,2231,4.6,4.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),10: 9am (9am-10am),4,3099,3023,12.1,11.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),11: 10am (10am-11am),22,2423,2716,9.1,9.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),12: 11am (11am-12noon),24,3477,3328,18.0,16.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),13: 12pm (12noon-1pm),16,4089,3418,20.9,16.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),14: 1pm (1pm-2pm),25,2929,2800,11.5,10.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),15: 2pm (2pm-3pm),16,6551,6411,67.4,63.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),16: 3pm (3pm-4pm),25,3560,3440,26.5,25.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),17: 4pm (4pm-5pm),18,3023,3057,11.6,12.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),18: 5pm (5pm-6pm),24,3622,3521,24.0,23.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),19: 6pm (6pm-7pm),15,3570,3652,19.8,20.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),20: 7pm (7pm-8pm),22,2499,2545,13.1,13.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),21: 8pm (8pm-9pm),21,2546,2651,12.3,13.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),22: 9pm (9pm-10pm),3,7597,7597,99.3,99.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),23: 10pm (10pm-11pm),2,2224,2224,12.5,12.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,0: All Days (M-Su),24: 11pm (11pm-12am),1,2031,2031,11.1,11.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),00: All Day (12am-12am),208,3154,3112,17.4,17.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),06: 5am (5am-6am),9,1398,1398,4.6,4.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),07: 6am (6am-7am),18,2710,2710,17.5,17.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),11: 10am (10am-11am),13,2118,2118,8.5,8.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),12: 11am (11am-12noon),15,3978,2882,9.2,7.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),13: 12pm (12noon-1pm),21,7616,7616,55.1,55.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),14: 1pm (1pm-2pm),14,3203,3203,15.4,15.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),15: 2pm (2pm-3pm),5,1408,1408,4.6,4.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),16: 3pm (3pm-4pm),23,2084,2084,6.5,6.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),17: 4pm (4pm-5pm),12,3943,3943,16.6,16.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),18: 5pm (5pm-6pm),6,1906,1906,8.6,8.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),19: 6pm (6pm-7pm),14,2122,2122,11.4,11.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),20: 7pm (7pm-8pm),11,3408,3408,24.8,24.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),21: 8pm (8pm-9pm),40,3316,3316,19.5,19.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,1: Monday (M-M),24: 11pm (11pm-12am),6,2031,2031,11.1,11.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),00: All Day (12am-12am),231,3179,3333,20.3,21.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),06: 5am (5am-6am),17,2902,2902,13.7,13.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),07: 6am (6am-7am),6,1757,1757,9.1,9.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),08: 7am (7am-8am),17,2012,2515,6.4,9.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),09: 8am (8am-9am),12,1698,1698,4.9,4.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),10: 9am (9am-10am),6,4274,4274,10.0,10.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),12: 11am (11am-12noon),26,2901,2901,10.9,10.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),13: 12pm (12noon-1pm),12,2478,2478,8.6,8.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),14: 1pm (1pm-2pm),29,2469,2469,5.6,5.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),15: 2pm (2pm-3pm),25,2150,3743,6.0,27.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),16: 3pm (3pm-4pm),37,7872,7172,104.9,89.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),17: 4pm (4pm-5pm),24,3137,3137,12.2,12.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),19: 6pm (6pm-7pm),5,2731,2731,15.7,15.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,2: Tuesday (Tu-Tu),21: 8pm (8pm-9pm),14,1982,1982,7.3,7.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),00: All Day (12am-12am),339,2925,2904,13.9,13.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),06: 5am (5am-6am),23,2006,2192,7.1,8.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),07: 6am (6am-7am),6,2129,2129,5.0,5.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),08: 7am (7am-8am),11,1737,1737,5.8,5.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),09: 8am (8am-9am),11,3036,3036,5.6,5.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),10: 9am (9am-10am),8,0,2717,0,6.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),11: 10am (10am-11am),32,3167,4291,8.5,14.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),12: 11am (11am-12noon),23,5717,5717,52.9,52.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),13: 12pm (12noon-1pm),29,5145,3094,21.0,11.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),14: 1pm (1pm-2pm),16,2398,2234,5.2,5.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),15: 2pm (2pm-3pm),24,2865,2865,13.8,13.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),16: 3pm (3pm-4pm),48,2015,1903,8.3,7.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),17: 4pm (4pm-5pm),12,2623,2623,13.6,13.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),18: 5pm (5pm-6pm),31,2574,2574,10.2,10.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),19: 6pm (6pm-7pm),6,4126,4126,6.3,6.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),20: 7pm (7pm-8pm),21,2965,2965,15.7,15.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,3: Wednesday (W-W),21: 8pm (8pm-9pm),36,2183,2183,7.3,7.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),00: All Day (12am-12am),284,3275,3255,20.3,20.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),07: 6am (6am-7am),16,1957,1957,6.8,6.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),08: 7am (7am-8am),7,2832,2832,9.9,9.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),11: 10am (10am-11am),19,2350,2350,11.4,11.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),12: 11am (11am-12noon),17,2312,1829,9.1,6.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),13: 12pm (12noon-1pm),5,3148,3148,7.8,7.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),14: 1pm (1pm-2pm),45,3582,3324,19.9,18.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),15: 2pm (2pm-3pm),7,0,6463,0,39.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),16: 3pm (3pm-4pm),16,2033,2033,6.1,6.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),17: 4pm (4pm-5pm),21,3753,3753,14.6,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),18: 5pm (5pm-6pm),51,2622,2424,9.3,10.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),19: 6pm (6pm-7pm),8,1488,1488,1.5,1.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),20: 7pm (7pm-8pm),51,2554,2554,13.6,13.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),21: 8pm (8pm-9pm),11,6608,5888,55.1,41.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,4: Thursday (Th-Th),22: 9pm (9pm-10pm),11,17524,17524,267.8,267.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),00: All Day (12am-12am),343,3723,3737,29.8,28.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),06: 5am (5am-6am),9,1432,1432,4.8,4.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),07: 6am (6am-7am),15,2286,3956,10.3,14.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),08: 7am (7am-8am),11,4823,4823,35.3,35.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),09: 8am (8am-9am),6,1468,1468,4.0,4.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),11: 10am (10am-11am),23,768,1270,3.1,3.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),12: 11am (11am-12noon),37,2900,2900,9.6,9.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),13: 12pm (12noon-1pm),7,737,737,1.2,1.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),14: 1pm (1pm-2pm),21,1816,2585,9.6,12.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),15: 2pm (2pm-3pm),17,21573,21573,288.1,288.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),16: 3pm (3pm-4pm),36,3866,3866,23.3,23.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),17: 4pm (4pm-5pm),11,1324,1324,5.8,5.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),18: 5pm (5pm-6pm),33,2142,2473,10.0,10.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),19: 6pm (6pm-7pm),26,2717,2717,7.8,7.8
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),20: 7pm (7pm-8pm),58,2090,2267,10.1,10.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),21: 8pm (8pm-9pm),25,1756,1756,6.7,6.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,5: Friday (F-F),22: 9pm (9pm-10pm),6,4282,4282,24.4,24.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),00: All Day (12am-12am),217,2728,2696,10.7,10.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),06: 5am (5am-6am),17,1979,1979,5.7,5.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),07: 6am (6am-7am),12,1642,1642,6.5,6.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),10: 9am (9am-10am),10,3391,3391,14.6,14.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),11: 10am (10am-11am),31,2915,2915,12.0,12.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),12: 11am (11am-12noon),17,3933,3814,12.3,11.3
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),13: 12pm (12noon-1pm),22,2886,2608,11.0,9.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),14: 1pm (1pm-2pm),23,2735,2735,7.4,7.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),15: 2pm (2pm-3pm),4,2043,2043,8.4,8.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),16: 3pm (3pm-4pm),15,2329,2080,5.7,5.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),17: 4pm (4pm-5pm),10,2098,2098,4.0,4.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),18: 5pm (5pm-6pm),19,3669,3669,26.1,26.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),19: 6pm (6pm-7pm),12,3916,3916,16.0,16.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),21: 8pm (8pm-9pm),19,2185,2185,8.4,8.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,6: Saturday (Sa-Sa),23: 10pm (10pm-11pm),4,1687,1687,5.4,5.4
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),00: All Day (12am-12am),319,4133,3887,31.0,27.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),05: 4am (4am-5am),6,1467,1467,6.0,6.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),06: 5am (5am-6am),10,16524,16524,247.9,247.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),07: 6am (6am-7am),6,2189,2189,9.2,9.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),08: 7am (7am-8am),17,1879,1879,4.1,4.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),09: 8am (8am-9am),6,2453,2453,2.9,2.9
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),10: 9am (9am-10am),4,1342,1342,9.2,9.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),11: 10am (10am-11am),37,2110,2193,7.0,6.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),12: 11am (11am-12noon),29,2674,2674,10.2,10.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),13: 12pm (12noon-1pm),13,2522,1972,5.8,5.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),14: 1pm (1pm-2pm),29,3165,2616,7.5,6.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),15: 2pm (2pm-3pm),31,3584,3584,16.7,16.7
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),16: 3pm (3pm-4pm),4,6705,6705,25.1,25.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),17: 4pm (4pm-5pm),38,2997,3104,11.0,13.1
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),18: 5pm (5pm-6pm),25,9850,9850,98.6,98.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),19: 6pm (6pm-7pm),35,5567,5430,46.8,44.0
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),20: 7pm (7pm-8pm),12,2128,2128,6.6,6.6
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),21: 8pm (8pm-9pm),4,1984,1984,4.2,4.2
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),22: 9pm (9pm-10pm),6,984,984,5.5,5.5
+All Vehicles - StL All Vehicles Volume,Trip Pass-Through,,Top of the Mountain,yes,4,no,7: Sunday (Su-Su),23: 10pm (10pm-11pm),6,2761,2761,19.7,19.7
