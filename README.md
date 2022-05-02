@@ -11,7 +11,8 @@ For the first goal, data was used from Acadia Park to estimate car volume and da
 ![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/park%20data.png)
 
 ## Models
-
+![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/Models%20Tested.png)
 
 ## Web Application
 The application provides an interface for people to upload a .csv file containing the weather data for 15 days and retun a result. It provides a data table for people to view and see the numbers and a visualization section where people can see a line chart and a box plot on the analysis of predicted results.
+![image](https://raw.githubusercontent.com/sitanshu1000/AcadiaNationalPark_GQP/main/Images/WebApp.png)
